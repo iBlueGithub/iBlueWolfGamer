@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iBlueWolfGamer
+- 👋 Hi, I’m @iBlue
 - 👀 I’m interested in playing games and learning how to program
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
